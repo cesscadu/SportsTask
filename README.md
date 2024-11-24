@@ -4,6 +4,8 @@ This project is an Android application built as part of an interview process. Th
 
 ---
 
+![Screenshot 2024-11-24 at 10 01 16](https://github.com/user-attachments/assets/80acfc70-c478-4100-aefe-a55eceef6018)
+
 ## **Features**
 
 - **Sports List**: Displays a collapsible list of sports, each showing its associated events.
